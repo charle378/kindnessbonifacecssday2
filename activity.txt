@@ -1,0 +1,10 @@
+ Image Gallery with CSS Grid – Day 2 
+ o Concepts covered: CSS grid, borders, image responsiveness.  
+ o What students learn: how to create neat layouts, use grid-gap, and style images with borders and hover effects.  
+ o A gallery of 6 or 8 images in a grid layout. When hovering over an image, it slightly zooms in and shows a caption.  
+
+
+ Recipe page – Day 2 
+o Concepts covered: grid, border, responsive design. 
+o What students learn: how to create neat layouts, use grid and link between section on same page. 
+o A recipe section (tied with the image gallery above – when clicked moves smoothly down to its respective recipe). 
