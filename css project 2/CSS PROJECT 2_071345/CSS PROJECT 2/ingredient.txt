@@ -1,0 +1,142 @@
+<!-- FRIED RICE -->
+<b>Fried Rice - Ingredients</b>
+<ol>
+  <li>2 cups parboiled rice</li>
+  <li>1 cup mixed vegetables (carrot, green peas, sweet corn)</li>
+  <li>1 cup diced liver or cooked chicken</li>
+  <li>1 green bell pepper, diced</li>
+  <li>1 onion, chopped</li>
+  <li>2 cloves garlic, minced</li>
+  <li>1 tsp curry powder</li>
+  <li>1 tsp dried thyme</li>
+  <li>2 seasoning cubes (or to taste)</li>
+  <li>Salt to taste</li>
+  <li>3 tbsp vegetable oil</li>
+  <li>1 cup chicken stock (or water)</li>
+</ol>
+<ol>
+  <li><strong>Fried Rice - Preparation</strong></li>
+  <li>Parboil the rice until just cooked, rinse under cold water and drain.</li>
+  <li>Heat oil in a large pan; sauté chopped onion and garlic until translucent.</li>
+  <li>Add diced liver or precooked chicken; stir-fry with curry and thyme for 2–3 minutes.</li>
+  <li>Add mixed vegetables and cook briefly until slightly tender.</li>
+  <li>Add the drained rice and a splash of chicken stock; fold gently to combine.</li>
+  <li>Add diced green pepper, adjust salt/seasoning, and stir-fry on low heat 5–7 minutes until heated through.</li>
+  <li>Serve hot.</li>
+</ol>
+
+<!-- JOLLOF RICE -->
+<ol>
+  <li><strong>Jollof Rice - Ingredients</strong></li>
+  <li>2 cups long-grain parboiled rice</li>
+  <li>4 large fresh tomatoes</li>
+  <li>2 red bell peppers</li>
+  <li>1 scotch bonnet (ata rodo) or to taste</li>
+  <li>1 onion (half for blending, half for frying)</li>
+  <li>2 tbsp tomato paste</li>
+  <li>3 seasoning cubes (or to taste)</li>
+  <li>1 tsp curry powder</li>
+  <li>1 tsp dried thyme</li>
+  <li>2 cups chicken stock (or water)</li>
+  <li>3 tbsp vegetable oil</li>
+  <li>Salt to taste</li>
+</ol>
+<ol>
+  <li><strong>Jollof Rice - Preparation</strong></li>
+  <li>Blend the fresh tomatoes, red peppers and half the onion to a smooth paste.</li>
+  <li>Heat oil in a pot, fry the remaining chopped onion briefly, add tomato paste and fry 2–3 minutes.</li>
+  <li>Add the blended tomato mixture and cook, stirring occasionally, until the sauce reduces and oil begins to separate (15–20 minutes).</li>
+  <li>Add seasoning cubes, curry, thyme and salt; stir in the washed rice.</li>
+  <li>Add chicken stock (enough to cover rice by about 1 inch), stir, reduce heat, cover and simmer until rice is cooked (check and stir occasionally to avoid burning).</li>
+  <li>When rice is done, fluff and serve with protein or plantain.</li>
+</ol>
+
+<!-- AFANG SOUP -->
+<b>Afang Soup - Ingredients</b>
+<ol>
+  <li>2 cups waterleaf (chopped) or substitute spinach</li>
+  <li>2 cups afang (okazi) leaves, shredded or pounded</li>
+  <li>1½ cups assorted meats (beef, tripe, kpomo) and/or smoked fish</li>
+  <li>1 cup stockfish or dried fish (optional)</li>
+  <li>2 tbsp ground crayfish</li>
+  <li>2 seasoning cubes (or to taste)</li>
+  <li>Salt and ground pepper to taste</li>
+  <li>1½ – 2 cups palm oil</li>
+  <li>1 medium onion, chopped</li>
+; r</ol>
+<b>Afang Soup - Preparation</b>
+<ol>
+  <li>Cook the assorted meats and stockfish in water with seasoning until tender; reserve the stock.</li>
+  <li>Heat palm oil in a pot, add chopped onion and sauté briefly.</li>
+  <li>Add a little of the meat stock, then the cooked meats, crayfish and pepper; stir and simmer 3–5 minutes.</li>
+  <li>Add the waterleaf (or spinach) and cook 3–5 minutes until it softens.</li>
+  <li>Stir in the shredded afang (okazi) leaveseduce heat and simmer 5–7 minutes until leaves are tender but not overcooked.</li>
+  <li>Adjust seasoning and serve with fufu, pounded yam or eba.</li>
+</ol>
+
+<!-- EGUISI SOUP -->
+<ol>
+  <li><strong>Egusi Soup - Ingredients</strong></li>
+  <li>2 cups ground egusi (melon seeds)</li>
+  <li>1½ cups palm oil</li>
+  <li>2 cups assorted cooked meats and fish</li>
+  <li>1–2 cups chopped leafy greens (spinach, bitter leaf or ugu)</li>
+  <li>2 tbsp ground crayfish</li>
+  <li>1 onion, chopped</li>
+  <li>2 seasoning cubes (or to taste)</li>
+  <li>Salt and ground pepper to taste</li>
+</ol>
+<ol>
+  <li><strong>Egusi Soup - Preparation</strong></li>
+  <li>Heat palm oil in a pot and sauté the chopped onion uil soft.</li>
+  <li>Mix the ground egusi with a little water to form a thick paste.</li>
+  <li>Add the egusi paste to the hot oil and fry, stirring frequently, until it firms up and becomes slightly dry (5–10 minutes).</li>
+  <li>Add cooked meats, fish, crayfish and a little stock; stir to combine and simmer 8–10 minutes.</li>
+  <li>Add the chopped greens, simmer another 3–5 minutes and adjust seasoning.</li>
+  <li>Serve with eba, pounded yam or semovita.</li>
+</ol>
+
+<!-- CHICKEN CURRY SAUCE -->
+<ol>
+  <li><strong>Chicken Curry Sauce - Ingredients</strong></li>
+  <li>500 g boneless chicken, cut into chunks</li>
+  <li>1 onion, chopped</li>
+  <li>1 green bell pepper, diced</li>
+  <li>1 carrot, sliced</li>
+  <li>2 tbsp curry powder (adjust to taste)</li>
+  <li>2 tbsp plain flour (or cornstarch) for thickening</li>
+  <li>1½ cups chicken stock (or water)</li>
+  <li>2 tbsp vegetasliced carrot and diced pepper; cook briefly.</li>
+  <li>Pour in chicken stock, then add the flour mixed with a little water to avoid lumps; stir until sauce thickens.</li>
+  <li>Simmer until chble oil</li>
+  <li>Salt and seasoning cubes to taste</li>
+</ol>
+<ol>
+  <li><strong>Chicken Curry Sauce - Preparation</strong></li>
+  <li>Heat oil in a pan, sauté chopped onion until fragrant.</li>
+  <li>Add chicken pieces, season with salt and seasoning cubes, and brown lightly.</li>
+  <li>Stir in curry powder and cook 1–2 minutes to release flavor.</li>
+  <li>Add icken is cooked through and vegetables are tender; adjust seasoning and serve with rice or spaghetti.</li>
+</ol>
+<!-- NIGERIAN STEW (TOMATO STEW)-->
+<ol>
+  <li><strong>Nigerian Stew - Ingredients</strong></li>
+  <li>6 fresh tomatoes</li>
+  <li>2 red bell peppers</li>
+  <li>1 scotch bonnet (ata rodo), optional</li>
+  <li>1 onion (half for blending, half for frying)</li>
+  <li>2 tbsp tomato paste</li>
+  <li>500 g cooked or fried meat/chicken</li>
+  <li>3 tbsp vegetable oil (or palm oil mix)</li>
+  <li>2 seasoning cubes (or to taste)</li>
+  <li>Salt and dried thyme to taste</li>
+</ol>
+<ol>
+  <li><strong>Nigerian Stew - Preparation</strong></li>
+  <li>Blend the fresh tomatoes, red peppers, scotch bonnet (if using) and half the onion into a smooth paste.</li>
+  <li>Boil the blended mix briefly to reduce excess water (optional).</li>
+  <li>Heat oil in a pot, fry the remaining chopped onion, then add tomato paste and fry 2–3 minutes.</li>
+  <li>Add the blended tomato mixture and cook until the oil separates from the sauce (10–20 minutes), stirring occasionally.</li>
+  <li>Add seasoning, thyme and the cooked/fried meat or chicken with a splash of stock; simmer 8–10 minutes to marry flavors.</li>
+  <li>Serve hot with rice, yam or beans.</li>
+</ol>
